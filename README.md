@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Anshika Garg
 - 🌱 I’m currently pursuing B.tech degree in CSE with AIML specialisation
-
--👀 I’m interested in ML projects, web dev.
+-  👀 I’m interested in ML projects, web dev.
 <!--- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
