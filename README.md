@@ -4,7 +4,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C00&center=true&vCenter=true&multiline=true&width=435&lines=Student+%7C+Tech+Explorer+%7C+Content+Lead;Flutter+%7C+AI+%7C+Firebase+Dev;Building+AI-powered+products+with+impact" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="stats" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight" alt="streak" />
 </p>
 
 
