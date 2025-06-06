@@ -4,11 +4,11 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshikagarg12&layout=compact&theme=gruvbox" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anshikagarg12&show_icons=true&theme=gruvbox" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=gruvbox" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshikagarg12&theme=gruvbox" />
 </p>
 
 
