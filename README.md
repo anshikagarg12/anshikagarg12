@@ -1,21 +1,21 @@
 # ✨ Anshika Garg ✨
 
-![Header GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRieXE4bmhqNm8zMG9ydnR6dTB3ZDA4MGJmeWx4a2tjNmpxM3N5ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif)
+![Header GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRrYXI4bDZyZ2d5YjJkNzlrYWI0a2MwZzVoZHRsNmRnaXkxZnptbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rANq7L91fS26g/giphy.gif)
 
-Hey there! 👋 I’m *Anshika Garg* — your friendly *creative innovator girly* who’s sprinkling AI/ML magic everywhere! ✨🎀
+Hey there! 👋 I’m *Anshika Garg* — your friendly *creative innovator girly* sprinkling AI/ML magic wherever I go. 💫✨
 
 ---
 
 ## 💡 Who am I?
 
-- 💫 *Creative Thinker*: Turning ideas into reality with code + imagination.  
-- 🤖 *AIML Enthusiast*: Always experimenting with models, datasets & new AI trends.  
-- 🚀 *Innovator at Heart*: Hackathons, passion projects & open-source fun!  
-- 🌸 *Proudly Girly*: Big dreams, pink vibes, and plenty of sparkle in STEM.  
+- 🎀 *Creativity-First*: Turning ideas into reality with code and curiosity.
+- 🤖 *AIML Enthusiast*: From smart models to impactful solutions.
+- 🚀 *Innovator at Heart*: Hackathons, open-source, late-night experiments — I love it all!
+- 🌸 *Proudly Girly*: Big dreams, pink energy, and a dash of sparkle in STEM.
 
 ---
 
-## 🛠 Tech & Tools I Love
+## 🛠 Tech I Love
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -30,30 +30,27 @@ Hey there! 👋 I’m *Anshika Garg* — your friendly *creative innovator girly
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub at a Glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Anshika's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=ayu-mirage&hide_border=true" alt="Anshika's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=ayu-mirage&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=ayu-mirage&hide_border=true" alt="Top Languages" width="50%"/>
 </p>
 
 ---
 
 ## ✨ Let’s Connect!
 
-If you vibe with *AI*, big ideas, and a sprinkle of girly sparkle — let’s connect & collaborate!
+If you vibe with *AI*, big ideas, and girly innovation — come say hi!
 
-- 📫 *Email:* [your.email@example.com]  
-- 💼 *LinkedIn:* [Your LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- 💼 *Portfolio:* [Your Portfolio Link](https://your-portfolio-link.com)
 - 🐙 *GitHub:* [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+- 💼 *LinkedIn:* [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
 
 ---
 
-*Keep creating. Keep dreaming. Keep being you. 💖*
+Keep creating. Keep dreaming. Keep being you. 💖
