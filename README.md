@@ -33,12 +33,12 @@ Hey there! 👋 I’m *Anshika Garg* — your friendly *creative innovator girly
 ## 📊 GitHub at a Glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=ayu-mirage&hide_border=true" alt="Anshika's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=ayu-mirage&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anshikagarg12&show_icons=true&theme=ayu-mirage&hide_border=true" alt="Anshika's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anshikagarg12&theme=ayu-mirage&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=ayu-mirage&hide_border=true" alt="Top Languages" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshikagarg12&layout=compact&theme=ayu-mirage&hide_border=true" alt="Top Languages" width="50%"/>
 </p>
 
 ---
@@ -47,9 +47,9 @@ Hey there! 👋 I’m *Anshika Garg* — your friendly *creative innovator girly
 
 If you vibe with *AI*, big ideas, and girly innovation — come say hi!
 
-- 💼 *Portfolio:* [Your Portfolio Link](https://your-portfolio-link.com)
-- 🐙 *GitHub:* [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-- 💼 *LinkedIn:* [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 💼 *Portfolio:* [Your Portfolio Link](https://anshikagarg.com)
+- 🐙 *GitHub:* [YOUR_GITHUB_USERNAME](https://github.com/anshikagarg12)
+- 💼 *LinkedIn:* [Your LinkedIn]([(https://www.linkedin.com/in/anshika-garg-73677a289/)])
 
 ---
 
