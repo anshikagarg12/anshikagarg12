@@ -4,7 +4,7 @@
 ---
 
 ## 💡 About Me  
-🎀 **Creative Innovator** | 🤖 **AIML Enthusiast** | 🖋 **Content Creator** | 🌍 **Tech Explorer**  
+🎀 **Creative Innovator** | 🤖 **AIML Enthusiast** | 🌍 **Tech Explorer**  
 
 - 🔭 Currently building **AI-powered apps** (DestinAItion ✈, TechNique 🎓, Drug Interaction Checker 💊)  
 - 🌱 Learning **Flutter, LangChain, Cloud & Generative AI**  
@@ -15,7 +15,7 @@
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,flutter,react,js,html,css,mongodb,firebase,git,github,aws,docker,tensorflow,pytorch&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,flutter,react,js,html,css,mongodb,firebase,git,github,aws,docker,tensorflow,pytorch,pandas&perline=7" />
 </p>
 
 ---
