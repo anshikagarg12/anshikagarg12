@@ -1,62 +1,47 @@
-# ✨ Anshika Garg ✨
-
-![Header GIF](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
-
-Hey there! 👋 I’m *Anshika Garg* — your friendly *creative innovator girly* sprinkling AI/ML magic wherever I go. 💫✨
+# 🌸 Hey there, I’m Anshika! ✨  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=Creative+Innovator+%F0%9F%8C%9F;AI%2FML+Enthusiast+%F0%9F%A4%96;Content+Creator+%F0%9F%8E%93;Fashionista+%2B+Techie+%F0%9F%92%9C" alt="Typing SVG" />
 
 ---
 
-## 💡 Who am I?
+## 💡 About Me  
+🎀 **Creative Innovator** | 🤖 **AIML Enthusiast** | 🖋 **Content Creator** | 🌍 **Tech Explorer**  
 
-- 🎀 *Creativity-First*: Turning ideas into reality with code and curiosity.
-- 🤖 *AIML Enthusiast*: From smart models to impactful solutions.
-- 🚀 *Innovator at Heart*: Hackathons, open-source, late-night experiments — I love it all!
-- 🌸 *Proudly Girly*: Big dreams, pink energy, and a dash of sparkle in STEM.
+- 🔭 Currently building **AI-powered apps** (DestinAItion ✈, TechNique 🎓, Drug Interaction Checker 💊)  
+- 🌱 Learning **Flutter, LangChain, Cloud & Generative AI**  
+- 🎯 Goal: To merge **creativity + AI + human touch** for impactful projects  
+- 💜 Fun fact: I’m a **techie who’s also a fashionista 😉**  
 
 ---
 
-## 🛠 Tech I Love
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&lo
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,flutter,react,js,html,css,mongodb,firebase,git,github,aws,docker,tensorflow,pytorch&perline=7" />
 </p>
 
 ---
 
-## 📊 GitHub at a Glance
-
+## 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshikagarg12&show_icons=true&theme=ayu-mirage&hide_border=true" alt="Anshika's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anshikagarg12&theme=ayu-mirage&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnshikaGarg&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshikaGarg&theme=radical" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshikagarg12&layout=compact&theme=ayu-mirage&hide_border=true" alt="Top Languages" width="50%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshikaGarg&theme=radical" />
 </p>
 
 ---
 
-## ✨ Let’s Connect!
-
-If you vibe with *AI*, big ideas, and girly innovation — come say hi!
-
-- 💼 *Portfolio:* [My Portfolio Link](https://anshikagarg.com)
-- 🐙 *GitHub:* [Anshi's Git](https://github.com/anshikagarg12)
-- 💼 *LinkedIn:* [LinkedIn](https://www.linkedin.com/in/anshika-garg-73677a289/)
+## ✨ Featured Projects  
+🚀 [**DestinAItion**](#) – Smart AI-powered travel itinerary generator 🌍  
+🎓 [**TechNique**](#) – Personalized AI-powered career guidance platform  
+💊 [**Drug Interaction Checker**](#) – Safer healthcare with AI  
 
 ---
 
-Keep creating. Keep dreaming. Keep being you. 💖
+## 🎨 Fun Section  
+```python
+while True:
+    print("Keep Innovating ✨ Stay Creative 💡 Spread Positivity 🌸")
+<p align="center"> <img src="https://github.com/AnshikaGarg/AnshikaGarg/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/> </p>
+<p align="center"> <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a> <a href="https://portfolio-link.com"><img src="https://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=appveyor&logoColor=white"></a> <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white"></a> </p>
