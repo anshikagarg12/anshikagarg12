@@ -43,5 +43,7 @@
 ```python
 while True:
     print("Keep Innovating ✨ Stay Creative 💡 Spread Positivity 🌸")
-<p align="center"> <img src="https://github.com/AnshikaGarg/AnshikaGarg/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/> </p>
-<p align="center"> <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a> <a href="https://portfolio-link.com"><img src="https://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=appveyor&logoColor=white"></a> <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white"></a> </p>
+
+
+<p align="center"> <img src="https://github.com/anshikagarg12/anshikagarg12/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/> </p>
+<p align="center"> <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a> <a href="https://anshikagarg.com"><img src="https://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=appveyor&logoColor=white"></a>
