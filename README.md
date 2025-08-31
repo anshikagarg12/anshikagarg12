@@ -22,12 +22,12 @@
 
 ## 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshikaGarg&show_icons=true&theme=radical" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshikaGarg&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anshikagarg12&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshikagarg12&theme=radical" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshikaGarg&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshikagarg12&theme=radical" />
 </p>
 
 ---
@@ -39,11 +39,6 @@
 
 ---
 
-## 🎨 Fun Section  
-```python
-while True:
-    print("Keep Innovating ✨ Stay Creative 💡 Spread Positivity 🌸")
-
 
 <p align="center"> <img src="https://github.com/anshikagarg12/anshikagarg12/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/> </p>
-<p align="center"> <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a> <a href="https://anshikagarg.com"><img src="https://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=appveyor&logoColor=white"></a>
+<p align="center"> <a href="www.linkedin.com/in/anshika-garg-73677a289"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a> <a href="https://anshikagarg.com"><img src="https://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=appveyor&logoColor=white"></a>
